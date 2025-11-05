@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "ProJamm - Project Management Software",
+    "desc": "A modern project collaboration platform that integrates project management, task tracking, and GitHub synchronization. Features drag-and-drop Kanban board, real-time collaboration, chat-to-task conversion, and automated GitHub issue sync to streamline workflow management.",
+    "image": "./assets/Untitleddesign.gif",
+    "video": "",
+    "tech": [
+      {
+        "name": "Java",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      },
+      {
+        "name": "React",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "MySQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      },
+      {
+        "name": "Redux",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      },
+      {
+        "name": "Azure",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+      }
+    ],
+    "github": "https://github.com/rishabhrawat05/projam-backend",
+    "live": "https://www.projamm.com/",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "title": "Dropify - E-commerce Application",
+    "desc": "All-in-one e-commerce platform with user authentication, product search, cart management, secure checkout, product categories with discounts, contact support, and pagination. Built with microservices architecture using Eureka Server for service discovery.",
+    "image": "./assets/Untitleddesign2.gif",
+    "video": "",
+    "tech": [
+      {
+        "name": "Java",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      },
+      {
+        "name": "React",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "MySQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      }
+    ],
+    "github": "https://github.com/rishabhrawat05/dropify",
+    "live": "",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "title": "Smart City Navigation System",
+    "desc": "Custom navigation system built from scratch without Google APIs. Features route suggestion, distance calculation using Haversine formula, and traffic-based ETA prediction. Optimized API responses from ~30s to ~10s using multithreading, matching Google Maps accuracy.",
+    "image": "https://via.placeholder.com/400x300",
+    "video": "",
+    "tech": [
+      {
+        "name": "Java",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      }
+    ],
+    "github": "https://github.com/rishabhrawat05/SmartCity_TrafficSystem",
+    "live": "",
+    "status": "Completed"
+  },
+  {
+    "id": 4,
+    "title": "Nothing Phone 1 - Redesigned Website",
+    "desc": "A fully responsive redesigned website for Nothing Phone 1 featuring smooth animations and modern UI. Built with vanilla JavaScript, GSAP for animations, and optimized for all screen sizes with clean HTML/CSS architecture.",
+    "image": "https://via.placeholder.com/400x300",
+    "video": "",
+    "tech": [
+      {
+        "name": "HTML5",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      }
+    ],
+    "github": "https://github.com/rishabhrawat05/NothingPhone-1",
+    "live": "https://reimagine-nine.vercel.app/",
+    "status": "Completed"
+  }
+]
