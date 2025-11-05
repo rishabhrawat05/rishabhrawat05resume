@@ -9,6 +9,7 @@ import projammGif from "./assets/Untitleddesign.gif";
 import dropifyGif from "./assets/Untitleddesign2.gif";
 import trafficGif from "./assets/Untitleddesign3.gif";
 import nothingGif from "./assets/Untitleddesign4.gif";
+import { Analytics } from "@vercel/analytics/react"
 import {
   RiFileList2Line,
   RiGithubLine,
@@ -670,6 +671,7 @@ function App() {
         <Route path="/" element={<HomePage isDarkMode={isDarkMode} toggleTheme={toggleTheme} />} />
         <Route path="/project/:projectId" element={<ProjectDetail isDarkMode={isDarkMode} />} />
       </Routes>
+      <Analytics />
     </Router>
   );
 }
